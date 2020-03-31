@@ -1,0 +1,30 @@
+h1{
+    color:rgb(252, 251, 249);
+    text-align: left;
+    font-size:40px;
+}
+#header{
+    background-color: rgb(118, 153, 129);
+    width: 100%;
+    line-height: 10px;
+    padding: 50px;
+}
+#section{
+    display: block; 
+    font-size: 20px; 
+    color: rgb(44, 40, 40); 
+    margin: 0 auto; 
+    background: rgb(218, 238, 224);
+    width: 60%;
+    float: center;
+    text-align: left;
+    padding:40px; 
+    line-height:30px
+}
+#footer{
+    background-color: rgb(118, 153, 129);
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
